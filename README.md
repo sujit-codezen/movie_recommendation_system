@@ -38,7 +38,7 @@ id,title,overview
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/movie-recommender.git
+git clone https://github.com/sujit-codezen/movie_recommendation_system.git
 cd movie-recommender
 ```
 
